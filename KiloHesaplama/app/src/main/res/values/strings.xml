@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="gezegende_kac_kilosun">Gezegende Kaç Kilosun ??</string>
+    <string name="enter_your_weight_in_world">Enter your weight in world</string>
+    <string name="heightinworld">heightinworld</string>
+    <string name="weight_in_world">Enter your weight in the world</string>
+    <string name="calculate_weight">Calculate</string>
+    <string name="uranus">Uranus</string>
+    <string name="nept_n">Neptün</string>
+    <string name="mars">Mars</string>
+</resources>
